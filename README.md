@@ -22,6 +22,15 @@
 - **[MonoPrompt.AI](https://monoprompt.ai/)** — SaaS platform that generates full web applications with AI agents.
 - **[Dev-Interactive](https://dev-interactive.com/)** — my web development company: websites, web apps and custom products for clients.
 
+### 🔓 Open-source tools
+
+| Project | What it does |
+|---|---|
+| 🔍 **[cryptoscan](https://github.com/ruslan-mustafaev/cryptoscan)** | Finds crypto constants (AES, SHA-2, MD5, CRC-32, ChaCha20, Blowfish) in binaries and firmware — CLI + **Ghidra** script for reverse engineering |
+| 🛡️ **[headerguard](https://github.com/ruslan-mustafaev/headerguard)** | Audits HTTP security headers, cookies and CORS of a website, grades it A+..F and fails CI on regressions |
+| 🔐 **[supabase-rls-audit](https://github.com/ruslan-mustafaev/supabase-rls-audit)** | Finds Row Level Security holes in Supabase databases before attackers with the public anon key do |
+| 🏆 **[cp-library](https://github.com/ruslan-mustafaev/cp-library)** | Header-only C++17 algorithms for ICPC, stress-tested against brute force with ASan + UBSan |
+
 ### 🛠 Tech stack
 
 **Languages**
@@ -31,6 +40,11 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
 **Web & backend**
@@ -69,4 +83,4 @@
 
 [monoprompt.ai](https://monoprompt.ai/) · [dev-interactive.com](https://dev-interactive.com/)
 
-> Most of my work lives in private repositories — the contribution graph shows the activity.
+> Most of my commercial work lives in private repositories — the contribution graph shows the activity.
