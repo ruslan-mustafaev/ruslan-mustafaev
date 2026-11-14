@@ -15,7 +15,7 @@
 
 - **12+ years of hands-on experience** across a wide range of technologies — from low-level C/C++ and reverse engineering to modern web, backend and AI.
 - **Ambitious builder** — I turn ideas into working products and take them all the way from concept to production.
-- Founder of two companies, competitive programmer and security enthusiast at heart.
+- Founder of two companies, competitive programmer and cybersecurity specialist.
 
 ### 🚀 What I'm building
 
